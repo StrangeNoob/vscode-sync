@@ -1,0 +1,114 @@
+{
+    "editor.suggestSelection": "first",
+    "python.languageServer": "Pylance",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "dart.debugSdkLibraries": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true,
+    "editor.semanticHighlighting.enabled": true,
+    "workbench.editor.decorations.colors": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "code-runner.clearPreviousOutput": true,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "editor.inlineSuggest.enabled": true,
+    "go.toolsManagement.autoUpdate": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "yaml": true,
+        "cpp": false
+    },
+    "hardhat.telemetry": true,
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "editor.formatOnPaste": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontFamily": "'FiraCode Nerd Font'",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "githubPullRequests.pullBranch": "never",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.largeFileOptimizations": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "explorer.confirmDelete": false,
+    "npm.keybindingsChangedWarningShown": true,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "dart.debugExternalPackageLibraries": false,
+    "yaml.schemas": {
+        "file:///Users/leon/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.enabled": true,
+    "atlascode.jira.enabled": false,
+    "svg.preview.mode": "svg",
+    "solidity.telemetry": false,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "editor.formatOnSave": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "git.confirmSync": false,
+    "workbench.editorLargeFileConfirmation": 2048,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "svelte.enable-ts-plugin": true,
+    "workbench.colorCustomizations": {},
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "keep",
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        }
+    },
+    "supermaven.allowGitignore": true,
+}
